@@ -1,0 +1,4 @@
+front/
+*.html
+*_files/
+.DS_Store
